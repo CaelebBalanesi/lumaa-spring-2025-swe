@@ -88,5 +88,11 @@ The frontend will start at http://localhost:3000 and communicate with the backen
 	- Unauthorized access is properly restricted.
 
 ### Notes
+- Error Handling: Basic error handling is implemented in the controllers.
 
+### Demo Video
+
+[![Demo Video](https://cdn-cf-east.streamable.com/image/igxwz8.jpg?Expires=1740276136391&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=jNpLMx4u2OuulTYMLyURrnvRTmDvuk0mlvVUCLZuhMrmV8u6UC55m71gJpw8UFmcODqO9LuPsDy0iu8XXfwRFDuNgCdiXHzf-698jroWvbBpgn3h0GLsmD9-PVGHq5SlGRTYo82UPiJIqV56gJHSO-8g6NiyC62vFfoLUyBb5jDIhR0oi7jJKB7GfVqOV-l5JLgrKdvdETwQ8mzDnLP7aTdO8OBNTKvo2S7loGOUAML66oZOWzWVHXgcJJiZprHF8JM0jEVNLTbCuOMlkTcWdxKOhwBnGsBpx7bVPZpyNsgEujnTohGXHLbJip4fAi7qL9d1GhrWIkc3RP35~kJFGA__)](https://streamable.com/igxwz8)
+
+Raw Url: https://streamable.com/igxwz8
 - Error Handling: Basic error handling is implemented in the controllers.
