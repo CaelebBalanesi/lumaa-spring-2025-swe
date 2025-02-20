@@ -89,6 +89,8 @@ The frontend will start at http://localhost:3000 and communicate with the backen
 
 ### Notes
 - Error Handling: Basic error handling is implemented in the controllers.
+- Salary Expectations per month: $4000 - $6000
+  - $20 - $30 dollars and hour
 
 ### Demo Video
 
